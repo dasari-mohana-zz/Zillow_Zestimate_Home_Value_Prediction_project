@@ -46,39 +46,49 @@ Some of the important features amongst them are as follows:
 ## My Approach
 
 1. Importing the required libraries and reading the dataset.
-	▪ Merging of the two datasets
-	▪ Understanding the dataset
+	a.Merging of the two datasets
+	b.Understanding the dataset
+	
 2. Exploratory Data Analysis (EDA) –
-	▪ Data Visualization
+	a.Data Visualization
+	
 3. Feature Engineering
-	▪ Duplicate value removal
-	▪ Missing value imputation
-	▪ Rescaling of incorrectly scaled data
-	▪ Standardization
-	▪ Encoding of categorical variables
-	▪ Generation of new feature wherever required.
-	▪ Dropping of redundant feature columns
-	▪ Checking for multi-collinearity and removal of highly correlated features
-	▪ Check for the outliners and removal of outliers.
+	a.Duplicate value removal
+	b.Missing value imputation
+	c.Rescaling of incorrectly scaled data
+	d.Standardization
+	e.Encoding of categorical variables
+	f.Generation of new feature wherever required.
+	g.Dropping of redundant feature columns
+	h.Checking for multi-collinearity and removal of highly correlated features
+	i.Check for the outliners and removal of outliers.
+	
 4. Model Building
-	▪ Performing train test split
-	▪ Feature Scaling
-	▪ Dropping features if necessary
-	▪ Linear Regression Model
-	▪ Elastic Net
-	▪ Ridge Regression
-	▪ Lasso Regressor
-	▪ XGBoost Regressor
-	▪ Adaboost Regressor
-	▪ Gradient Boosting Regressor
-	▪ Decision Tree Regressor
-	▪ Random Forest Regressor
+	a.Performing train test split
+	b.Feature Scaling
+	c.Dropping features if necessary
+	d.Linear Regression Model
+	e.Elastic Net
+	f.Ridge Regression
+	g.Lasso Regressor
+	h.XGBoost Regressor
+	i.Adaboost Regressor
+	j.Gradient Boosting Regressor
+	k.Decision Tree Regressor
+	l.Random Forest Regressor
+	
 5. Model Validation
-	▪ Mean Absolute Error
-  ▪ Mean Squared Error
-  ▪ Root Mean Squared Error
+	a.Mean Absolute Error
+	b.Mean Squared Error
+	c.Root Mean Squared Error
+	
 6. Hypermeter Tuning (GridSearchCV)
-	▪ For Random Forest Regressor
+	a.For Random Forest Regressor
+	
 7. Checking for Feature Importance
+
 8. Creating the final model and making predictions
+
 9. Conclusion
+
+

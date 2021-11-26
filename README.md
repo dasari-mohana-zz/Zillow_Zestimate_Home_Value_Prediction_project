@@ -46,43 +46,71 @@ Some of the important features amongst them are as follows:
 ## My Approach
 
 1. Importing the required libraries and reading the dataset.
+
 	a.Merging of the two datasets
+	
 	b.Understanding the dataset
 	
 2. Exploratory Data Analysis (EDA) –
+
 	a.Data Visualization
 	
 3. Feature Engineering
+
 	a.Duplicate value removal
+	
 	b.Missing value imputation
+	
 	c.Rescaling of incorrectly scaled data
+	
 	d.Standardization
+	
 	e.Encoding of categorical variables
+	
 	f.Generation of new feature wherever required.
+	
 	g.Dropping of redundant feature columns
+	
 	h.Checking for multi-collinearity and removal of highly correlated features
+	
 	i.Check for the outliners and removal of outliers.
 	
 4. Model Building
+
 	a.Performing train test split
+	
 	b.Feature Scaling
+	
 	c.Dropping features if necessary
+	
 	d.Linear Regression Model
+	
 	e.Elastic Net
+	
 	f.Ridge Regression
+	
 	g.Lasso Regressor
+	
 	h.XGBoost Regressor
+	
 	i.Adaboost Regressor
+	
 	j.Gradient Boosting Regressor
+	
 	k.Decision Tree Regressor
+	
 	l.Random Forest Regressor
 	
 5. Model Validation
+
 	a.Mean Absolute Error
+	
 	b.Mean Squared Error
+	
 	c.Root Mean Squared Error
 	
 6. Hypermeter Tuning (GridSearchCV)
+
 	a.For Random Forest Regressor
 	
 7. Checking for Feature Importance
